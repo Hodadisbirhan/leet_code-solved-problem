@@ -1,0 +1,1 @@
+Nth hight salary sql
