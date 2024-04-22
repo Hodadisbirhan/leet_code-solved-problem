@@ -1,4 +1,4 @@
-write the sql query the fetch the Nth highest salary in the Employee table
+# write the sql query the fetch the Nth highest salary in the Employee table
 create function getNthHighestSalary(N INT)
 begin
   set N= N-1;
